@@ -47,7 +47,7 @@
 }
 
 .gpt3_navbar_sign button ,
-.gpt3_navbar_menu_container{
+.gpt3_navbar_menu_container_links_sign button{
     padding: 1rem 2rem;
     color: white;
     background: #ff4820;

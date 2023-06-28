@@ -53,6 +53,7 @@
     line-height: 30px;
     color: var(--color-subtext);
     cursor: pointer;
+    margin-right: 3rem;
 }
 
 .gpt3_whatgpt3_container {

@@ -9,7 +9,7 @@ const WhatGPT3 = () => {
             </div>
             <div className={"gpt3_whatgpt3_heading"}>
                 <h1 className={"gradient_text"}>The possibilities are beyond your imagination.</h1>
-                <p>Explore The Library</p>
+                <p><a href={"#blog"}>Explore The Library</a></p>
             </div>
             <div className={"gpt3_whatgpt3_container"}>
                 <Feature title={"Chatbots"} text={"Chatbots can make it easy for users to find the information they need by responding to their questions and requests—through text input, audio input, or both—without the need for human intervention."}/>
